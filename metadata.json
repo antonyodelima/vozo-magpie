@@ -1,0 +1,6 @@
+{
+  "name": "Vozo Studio",
+  "description": "AI Voice Cloning & Voice Synthesis Studio with fluid spring animations and audio studio controls",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
